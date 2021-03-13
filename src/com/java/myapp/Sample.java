@@ -6,6 +6,7 @@ public class Sample {
 		
 		System.out.println("Started to learning java");
 		System.out.println("Started to learning java");
+		System.out.println("Started to learning java");
 
 	}
 
